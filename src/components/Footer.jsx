@@ -8,7 +8,7 @@ export const Footer = () => {
         </a>
       </p>
       <div>
-        <p>To see more of the stuff I've made, or find out more about me, see the below links</p>
+        <p className="text-center w-11/12 m-auto">To see more of the stuff I've made, or find out more about me, see the below links</p>
         <ul className="flex flex-row gap-4 justify-center">
           <li>
             <a className="text-blue-400" href="https://www.tomarcher.uk/" target="_blank">
