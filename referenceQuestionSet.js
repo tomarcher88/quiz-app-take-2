@@ -1,0 +1,52 @@
+[
+  {
+    category: "Film & TV",
+    id: "622a1c357cc59eab6f94fdab",
+    correctAnswer: "The T-Birds",
+    incorrectAnswers: [
+      "The Wild Dogs",
+      "The Pink Ladies",
+      "The Heavy Quarters",
+    ],
+    question:
+      "What Was The Gang Name Of John Travolta And His Cohorts In The Movie Grease?",
+    tags: ["nicknames", "film", "cult_films", "film_and_tv"],
+    type: "Multiple Choice",
+    difficulty: "medium",
+    regions: [],
+  },
+  {
+    category: "Society & Culture",
+    id: "622a1c3a7cc59eab6f9511d4",
+    correctAnswer: "Athena",
+    incorrectAnswers: ["Apollo", "Aphrodite", "Hercules"],
+    question: "In Greek mythology, who turned Arachne into a spider?",
+    tags: ["mythology", "ancient_greece", "animals", "society_and_culture"],
+    type: "Multiple Choice",
+    difficulty: "medium",
+    regions: [],
+  },
+  {
+    category: "Society & Culture",
+    id: "622a1c367cc59eab6f950138",
+    correctAnswer: "A Labyrinth",
+    incorrectAnswers: ["A Statue", "A Child", "A Flying Horse"],
+    question: "In Greek mythology, what did Daedalus construct for Minos?",
+    tags: ["society_and_culture"],
+    type: "Multiple Choice",
+    difficulty: "medium",
+    regions: [],
+  },
+  {
+    category: "Film & TV",
+    id: "622a1c347cc59eab6f94f8c6",
+    correctAnswer: "Jack Nicholson",
+    incorrectAnswers: ["Robert Shaw", "James Stewart", "Harrison Ford"],
+    question:
+      "Which actor played the role of Randle Patrick McMurphy in One Flew Over the Cuckoo's Nest?",
+    tags: ["acting", "film", "film_and_tv"],
+    type: "Multiple Choice",
+    difficulty: "medium",
+    regions: [],
+  },
+];
